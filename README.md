@@ -1,4 +1,4 @@
-##BEM VINDO(A) AO MEU PERFIL!
+ # BEM VINDO(A) AO MEU PERFIL!
 
 💻 Estudante de Desenvolvimento de Sistemas no SENAI 
 
@@ -7,7 +7,7 @@
 🧩 Codando o futuro e mimando doguinhos
 
 
-#SOBRE MIM
+# SOBRE MIM
 Tenho 16 anos e atualmente estudo Desenvolvimento de Sistemas no SENAI (sim, sou da área da tecnologia 👩🏻‍💻). Entre códigos, café e linhas infinitas no VSCode rosa, eu vou construindo meu futuro enquanto tento entender a vida.
 
 Mas fora das telas, eu tenho uma alma bem antiga. Sou apaixonada por carros clássicos, discos de vinil e tudo que tenha sentimento de verdade. Escuto muito rock, principalmente Charlie Brown Jr, (sim, eu tenho uma vitrola aos 16 anos)
