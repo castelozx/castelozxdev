@@ -10,7 +10,7 @@
 # SOBRE MIM
 Tenho 16 anos e atualmente estudo Desenvolvimento de Sistemas no SENAI (sim, sou da área da tecnologia 👩🏻‍💻). Entre códigos, café e linhas infinitas no VSCode rosa, eu vou construindo meu futuro enquanto tento entender a vida.
 
-Mas fora das telas, eu tenho uma alma bem antiga. Sou apaixonada por carros clássicos, discos de vinil e tudo que tenha sentimento de verdade. Escuto muito rock, principalmente Charlie Brown Jr, (sim, eu tenho uma vitrola aos 16 anos)
+Mas fora das telas, eu tenho uma alma bem antiga. Sou apaixonadA por carros clássicos, discos de vinil e tudo que tenha sentimento de verdade. Escuto muito rock, principalmente Charlie Brown Jr, (sim, eu tenho uma vitrola aos 16 anos)
 
 Sou extremamente romântica, intensa e recíproca. Gosto das coisas clichês: cartas, flores, músicas dedicadas, olhares sinceros e demonstrações simples que significam muito( a verdadeira felicidade está nas coisas mais simples)  Me apego fácil ao que amo e me entrego por inteiro em tudo que faço.
 
