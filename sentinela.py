@@ -28,3 +28,5 @@ while (sentinela == 1) :
     print(" 2- NÃO")
     
     sentinela = int(input("Informe a opção: "))
+
+![Sem título.png]
